@@ -1,23 +1,17 @@
 # This file is a template, and might need editing before it works on your project.
 # Full project: https://gitlab.com/pages/plain-html
 
-image: busybox
+image: node:lts
 
 pages:
   stage: deploy
   script:
-<<<<<<< HEAD
-    - echo "The site will be deployed to $CI_PAGES_URL"
-  artifacts:
-    paths:
-=======
     - npm install
     - npm run docs:build
-    - mv docs/.vuepress/dist public
+    - mv docs/.vitepress/dist public
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
->>>>>>> dbc22d3 (Initial commit)
       - public
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

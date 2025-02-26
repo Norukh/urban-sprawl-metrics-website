@@ -1,0 +1,24 @@
+{
+  "name": "urban-sprawl-metrics-website",
+  "version": "1.0.0",
+  "description": "Example plain HTML site using GitLab Pages.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.ost.ch/sa-urban-sprawl-metrics/urban-sprawl-metrics-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
