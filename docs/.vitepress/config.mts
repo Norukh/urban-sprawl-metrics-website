@@ -12,8 +12,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Made with ❤️ in Switerland',
-      copyright: `Copyright © ${new Date().getFullYear()} Nico Fehr, Title Image: © San Francisco Sprawl by Phil Whitehouse under CC BY 2.0 (https://www.flickr.com/photos/philliecasablanca/2595289183)`
+      message: 'Made with ❤️ in Switzerland',
+      copyright: `Copyright © ${new Date().getFullYear()} Nico Fehr, Kyra Maag - Title Image: © San Francisco Sprawl by Phil Whitehouse under CC BY 2.0 (https://www.flickr.com/photos/philliecasablanca/2595289183)`
     }
   }
 })
