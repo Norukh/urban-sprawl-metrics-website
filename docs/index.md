@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Urban Sprawl Metrics"
-  text: "Thesis: Urban Sprawl Metrics Calculator "
-  tagline: A thesis created by Nico Fehr, Kyra Maag in 2024 at Eastern Switzerland University of Applied Sciences
+  text: "Calculator - Webservice"
+  tagline: A proof of concept by Nico Fehr, Kyra Maag in 2024 and 2025 at Eastern Switzerland University of Applied Sciences (OST)
 
   image: 
     src: /banner-image.jpg
@@ -13,11 +13,23 @@ hero:
 
   actions:
     - theme: brand
-      text: Read the Thesis at OST Eprint
-      link: https://eprints.ost.ch/id/eprint/1268/
+      text: Download the bachelor's thesis (~3 MB)
+      link: /Bericht_BA_Fehr_Maag-compressed.pdf
     - theme: alt
-      text: Repositories on OST Gitlab
-      link: https://gitlab.ost.ch/sa-urban-sprawl-metrics
+      text: Read the first thesis (2024) at OST eprints (Studienarbeit)
+      link: https://eprints.ost.ch/id/eprint/1268/
 
+features:
+  - title: Repositories on OST Gitlab
+    icon: 👩‍💻
+    details: The code repository of the USM Calculator can be found on OST's own GitLab repository.
+    link:  https://gitlab.ost.ch/sa-urban-sprawl-metrics
+    linkText: Check out the code
+
+  - title: Urban Sprawl Metrics Calculator Documentation
+    icon: 📘
+    details: This is a short software documentation to understand the calculator, its input parameters and their outcome after calculation.
+    link: https://docs.urbansprawl.ch
+    linkText: See the documentation
 ---
 
