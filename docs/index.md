@@ -29,7 +29,7 @@ features:
   - title: Urban Sprawl Metrics Calculator Documentation
     icon: 📘
     details: This is a short software documentation to understand the calculator, its input parameters and their outcome after calculation.
-    link: https://docs.urbansprawl.ch
+    link: https://docs.urbansprawl.ch/p0BQxOQbSESYxLmrv-fyhg#
     linkText: See the documentation
 ---
 
