@@ -1,0 +1,2 @@
+# LUP - Land Uptake per person
+The LUP is calculated as the built-up area divided by the number of inhabitants and employees combined. High LUP values indicate that more land is used per inhabitant or workplace than in areas with lower values.

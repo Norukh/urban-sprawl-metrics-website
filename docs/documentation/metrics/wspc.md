@@ -1,0 +1,2 @@
+# WSPC - Weighted Sprawl per Capita
+The WSPC measures the contribution of each resident or employee to urban sprawl in the study area. The result is expressed as UPU (Urban Permeation Units) per person (resident or employee).

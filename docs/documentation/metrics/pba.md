@@ -1,0 +1,2 @@
+# PBA - Proportion of Built-up Areas
+The PBA metric describes the relationship between the size of the built-up area and the size of the reporting unit (sometimes referred to as the study area or feature).

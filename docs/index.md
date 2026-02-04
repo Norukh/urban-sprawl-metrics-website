@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Urban Sprawl Metrics"
-  text: "Calculator - Webservice"
-  tagline: A proof of concept by Nico Fehr, Kyra Maag in 2024 and 2025 at Eastern Switzerland University of Applied Sciences (OST)
+  text: "Calculator"
+  tagline: A proof of concept webapp developed in 2024 and 2025 at Eastern Switzerland University of Applied Sciences (OST)
 
   image: 
     src: /banner-image.jpg
@@ -13,23 +13,34 @@ hero:
 
   actions:
     - theme: brand
-      text: Download the bachelor's thesis (~3 MB)
+      text: Read the bachelor's thesis (~3 MB)
       link: /Bericht_BA_Fehr_Maag-compressed.pdf
+    - theme: alt
+      text: Read the second thesis (2025) at OST eprints (Bachelorarbeit)
+      link: https://eprints.ost.ch/id/eprint/1311/
     - theme: alt
       text: Read the first thesis (2024) at OST eprints (Studienarbeit)
       link: https://eprints.ost.ch/id/eprint/1268/
+    - theme: brand
+      text: Contact Us
+      link: /contact
 
 features:
-  - title: Repositories on OST Gitlab
+  - title: Repositories on GitLab (hosted by OST)
     icon: 👩‍💻
     details: The code repository of the USM Calculator can be found on OST's own GitLab repository.
-    link:  https://gitlab.ost.ch/sa-urban-sprawl-metrics
-    linkText: Check out the code
+    link: https://gitlab.ost.ch/sa-urban-sprawl-metrics/usm-calculator
+    linkText: Find out more
 
-  - title: Urban Sprawl Metrics Calculator Documentation
-    icon: 📘
+  - title: QGIS Plugin
+    icon: 🗺️
+    details: With the optimization findings for the webapp we also improved an existing Python plugin for the open source software QGIS.
+    link: https://plugins.qgis.org/plugins/usm_calculator_qgis/
+    linkText: Install it from here (experimental)
+
+  - title: Documentation
+    icon: 📖
     details: This is a short software documentation to understand the calculator, its input parameters and their outcome after calculation.
-    link: https://docs.urbansprawl.ch/p0BQxOQbSESYxLmrv-fyhg#
+    link: /documentation
     linkText: See the documentation
 ---
-

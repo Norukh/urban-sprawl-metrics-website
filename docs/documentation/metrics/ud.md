@@ -1,0 +1,2 @@
+# UD - Utilization Density
+The metric UD describes the number of inhabitants and employees per square kilometer of built-up area. The more inhabitants and employees are present in a given area, the higher the UD value.

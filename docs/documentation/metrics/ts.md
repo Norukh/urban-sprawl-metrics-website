@@ -1,0 +1,2 @@
+# TS - Total Sprawl
+The TS is defined as the averaged sum of the weighted distances between the built-up areas within the study area. The value can be calculated from the product of the DIS value and the built-up area.

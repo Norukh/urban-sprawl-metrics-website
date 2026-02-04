@@ -1,0 +1,2 @@
+# UP - Urban Permeation
+The measure UP describes the permeation (penetration) of a landscape by built-up areas. It takes into account the DIS value and the PBA value and is expressed in UPU (Urban Permeation Units) per square meter of the study area (feature).
